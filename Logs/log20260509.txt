@@ -1,0 +1,28 @@
+2026-05-09 16:38:26.195 +05:30 [INF] User profile is available. Using 'C:\Users\admin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-05-09 16:38:26.556 +05:30 [INF] Now listening on: https://localhost:7084
+2026-05-09 16:38:26.560 +05:30 [INF] Now listening on: http://localhost:5294
+2026-05-09 16:38:26.918 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-09 16:38:26.920 +05:30 [INF] Hosting environment: Development
+2026-05-09 16:38:26.922 +05:30 [INF] Content root path: C:\Users\admin\source\repos\StudentManagementSystem\StudentManagementSystem
+2026-05-09 16:38:28.340 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7084/swagger/index.html - null null
+2026-05-09 16:38:28.854 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7084/swagger/index.html - 304 null null 535.0267ms
+2026-05-09 16:38:28.882 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7084/swagger/index.css - null null
+2026-05-09 16:38:28.923 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7084/swagger/swagger-ui-standalone-preset.js - null null
+2026-05-09 16:38:28.882 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7084/swagger/swagger-ui-bundle.js - null null
+2026-05-09 16:38:28.882 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7084/swagger/swagger-ui.css - null null
+2026-05-09 16:38:28.882 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7084/swagger/index.js - null null
+2026-05-09 16:38:28.883 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7084/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-09 16:38:28.959 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7084/_vs/browserLink - null null
+2026-05-09 16:38:28.995 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7084/swagger/index.js - 304 null null 112.1019ms
+2026-05-09 16:38:29.013 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7084/swagger/swagger-ui-standalone-preset.js - 304 null null 89.405ms
+2026-05-09 16:38:29.013 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7084/swagger/index.css - 304 null null 130.5236ms
+2026-05-09 16:38:29.032 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7084/swagger/swagger-ui-bundle.js - 304 null null 149.8456ms
+2026-05-09 16:38:29.013 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7084/swagger/swagger-ui.css - 304 null null 130.7709ms
+2026-05-09 16:38:29.042 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7084/_framework/aspnetcore-browser-refresh.js - 200 14951 application/javascript; charset=utf-8 159.3218ms
+2026-05-09 16:38:29.189 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7084/_vs/browserLink - 200 null text/javascript; charset=UTF-8 258.4906ms
+2026-05-09 16:38:29.305 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7084/swagger/v1/swagger.json - null null
+2026-05-09 16:38:29.344 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7084/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 39.1797ms
+2026-05-09 16:38:42.328 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7084/api/Student - null null
+2026-05-09 16:38:42.434 +05:30 [INF] Executing endpoint 'StudentManagementSystem.Controllers.StudentController.GetAll (StudentManagementSystem)'
+2026-05-09 16:38:42.461 +05:30 [INF] Executed endpoint 'StudentManagementSystem.Controllers.StudentController.GetAll (StudentManagementSystem)'
+2026-05-09 16:38:42.568 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7084/api/Student - 500 null application/json 240.2316ms
